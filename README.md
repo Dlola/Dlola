@@ -1,3 +1,14 @@
+<!-- TABLE OF CONTENTS -->
+<p align="center">
+  <a href="#about-me">👤 About Me</a> |
+  <a href="#%F0%9F%9A%A0-tech-stack--tools">🛠️ Tech Stack</a> |
+  <a href="#%F0%9F%92%BC-experience-highlights">💼 Experience</a> |
+  <a href="#%F0%9F%93%9C-certifications">📜 Certifications</a> |
+  <a href="#%F0%9F%9A%80-latest-projects">🚀 Projects</a> |
+  <a href="#%F0%9F%8E%BE-beyond-tech">🎾 Hobbies</a> |
+  <a href="#lets-connect">🤝 Contact</a>
+</p>
+
 <!-- HEADER -->
 <h1 align="center">Hi there, I'm Damilola Ijiwola 👋</h1>
 <p align="center">
