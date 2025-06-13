@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="./name.svg" alt="Damilola Ijiwola Banner"/>
+</p>
+
+<h3 align="center">Cloud DevOps Engineer | AI/ML Enthusiast | Solution Builder</h3>
+
+<p align="center">
+  <a href="mailto:dami.jiwola@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/dami-ijiwola">LinkedIn</a> •
+  <a href="https://github.com/Dlola">GitHub</a>
+</p>
+
 <!-- TABLE OF CONTENTS -->
 <p align="center">
   <a href="#about-me">👤 About Me</a> |
@@ -6,17 +18,14 @@
   <a href="#certifications">📜 Certifications</a> |
   <a href="#projects">🚀 Projects</a> |
   <a href="#beyond-tech">🎾 Hobbies</a> |
-  <a href="#contact">🤝 Contact</a>
+  <a href="#contact"> Contact</a>
 </p>
 
-<!-- HEADER -->
-<h1 align="center">Hi there, I'm Damilola Ijiwola 👋</h1>
 <p align="center">
-  <b>Cloud DevOps Engineer | AI/ML Enthusiast | Solution Builder</b><br>
-  <a href="mailto:dami.jiwola@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/dami-ijiwola">LinkedIn</a> •
-  <a href="https://github.com/Dlola">GitHub</a>
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green" alt="Open Source Love"/>
 </p>
+
+
 
 <!-- ABOUT ME -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
@@ -64,7 +73,6 @@ mindmap
       Bootstrap
       Material-UI
       Ant Design
-      Shadcn-UI
       Vue
     AI/ML & Data
       NumPy
@@ -74,7 +82,6 @@ mindmap
       PyTorch
       Langchain
       Matplotlib
-      Seaborn
       Plotly
       D3.js
       OpenAI
