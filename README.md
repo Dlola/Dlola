@@ -19,7 +19,21 @@
 <!-- TECH STACK -->
 ### 🛠️ Tech Stack & Tools
 
-#### 1. Mermaid Mindmap (Current)
+<p align="center">
+  <a href="#1-mermaid-mindmap-visual-overview">
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="Mindmap Visual Thinker"/><br>
+    <b>🎨 Mindmap</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#2-shieldsio-badge-grid-detailed-overview">
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" alt="Badge Grid Detail Oriented"/><br>
+    <b>💻 Badge Grid</b>
+  </a>
+</p>
+
+---
+
+#### 1. Mermaid Mindmap (Visual Overview)
 ```mermaid
 mindmap
   root((Tech Snapshot))
@@ -112,7 +126,7 @@ mindmap
 
 ---
 
-#### 2. Shields.io Badge Grid (Grouped)
+#### 2. Shields.io Badge Grid (Detailed Overview)
 
 **Cloud**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
@@ -125,6 +139,7 @@ mindmap
 **DevOps & Automation**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white)
