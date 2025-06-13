@@ -1,12 +1,12 @@
 <!-- TABLE OF CONTENTS -->
 <p align="center">
   <a href="#about-me">👤 About Me</a> |
-  <a href="#%F0%9F%9A%A0-tech-stack--tools">🛠️ Tech Stack</a> |
-  <a href="#%F0%9F%92%BC-experience-highlights">💼 Experience</a> |
-  <a href="#%F0%9F%93%9C-certifications">📜 Certifications</a> |
-  <a href="#%F0%9F%9A%80-latest-projects">🚀 Projects</a> |
-  <a href="#%F0%9F%8E%BE-beyond-tech">🎾 Hobbies</a> |
-  <a href="#lets-connect">🤝 Contact</a>
+  <a href="#tech-stack">🛠️ Tech Stack</a> |
+  <a href="#experience">💼 Experience</a> |
+  <a href="#certifications">📜 Certifications</a> |
+  <a href="#projects">🚀 Projects</a> |
+  <a href="#beyond-tech">🎾 Hobbies</a> |
+  <a href="#contact">🤝 Contact</a>
 </p>
 
 <!-- HEADER -->
@@ -21,6 +21,7 @@
 <!-- ABOUT ME -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
   
+<a name="about-me"></a>
 ### 👨🏾‍💻 About Me
 - 🚀 Cloud DevOps Engineer with 4+ years of experience
 - 🛠️ Building scalable solutions with GCP, Kubernetes, Terraform, Node.js, and more
@@ -28,6 +29,7 @@
 - 🌍 Based in London, UK
 
 <!-- TECH STACK -->
+<a name="tech-stack"></a>
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
@@ -235,6 +237,7 @@ mindmap
 ---
 
 <!-- EXPERIENCE HIGHLIGHTS -->
+<a name="experience"></a>
 ### 💼 Experience Highlights
 - **GFT Financial**: GCP Cloud DevOps Engineer (2023–Present)
   - Deployed and managed infra for high-profile clients (HSBC, etc.)
@@ -244,6 +247,7 @@ mindmap
 - **Custom Solutions**: Built RAG pipelines, automation bots, and custom APIs for various clients
 
 <!-- CERTIFICATIONS -->
+<a name="certifications"></a>
 ### 📜 Certifications
 <p>
   <img src="https://img.shields.io/badge/GCP_Professional_Cloud_Security_Engineer-4285F4?logo=googlecloud&logoColor=white"/>
@@ -255,12 +259,14 @@ mindmap
 </p>
 
 <!-- LATEST PROJECTS -->
+<a name="projects"></a>
 ### 🚀 Latest Projects
 - **AI-Powered Chatbot**: Custom RAG pipeline using OpenAI, Pinecone, and Express (private, demo on request)
 - **Cloud Automation Suite**: Automated workflows with n8n, Zapier, and GCP Functions (private, demo on request)
 - **Scalable API Gateway**: Built with Node.js, Docker, and Cloudflare for high-traffic apps (private, demo on request)
 
 <!-- BEYOND TECH / HOBBIES -->
+<a name="beyond-tech"></a>
 ### 🎾 Beyond Tech
 When I'm not coding, you'll find me:
 - 🏸 Playing tennis & padel
@@ -269,6 +275,7 @@ When I'm not coding, you'll find me:
 - 🏋️‍♂️ Hitting the gym
 
 <!-- LET'S CONNECT -->
+<a name="contact"></a>
 ---
 <p align="center">
   <b>Let's connect and build something awesome together!</b><br>
