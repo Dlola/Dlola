@@ -1,1 +1,61 @@
-# Dami
+```mermaid
+mindmap
+  root((Tech Snapshot))
+    Languages
+      JavaScript
+      TypeScript
+      Python
+      SQL
+      Bash
+      PowerShell
+      R
+    UI
+      Tailwind
+      Bootstrap
+      Material-UI
+      Ant Design
+      Shadcn-UI
+    AI/ML
+      NumPy
+      Pandas
+      Scikit-Learn
+      TensorFlow
+      PyTorch
+      Langchain
+      Matplotlib
+      Seaborn
+      Plotly
+      D3.js
+    DevOps
+      Docker
+      Git
+      GitHub Actions
+      CircleCI
+    Cloud
+      Terraform
+      AWS
+        EC2
+        ECS
+        ECR
+        Fargate
+        S3
+        Lambda
+        “Load Balancer”
+        SageMaker
+        “SageMaker Studio”
+        Neptune
+        Batch
+        Workspaces
+    Frameworks
+      React
+      “Next.js”
+      FastAPI
+      Flask
+      Express
+      Django
+      Streamlit
+      Dash
+      “R-Shiny”
+      Electron
+      Pydantic
+      SQLAlchemy
