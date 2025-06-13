@@ -247,11 +247,20 @@ mindmap
 <a name="experience"></a>
 ### 💼 Experience Highlights
 - **GFT Financial**: GCP Cloud DevOps Engineer (2023–Present)
-  - Deployed and managed infra for high-profile clients (HSBC, etc.)
+  - Deployed and managed infra for high-profile clients (HSBC, Zurich, Deutsche Bank, etc.)
   - Built robust CI/CD pipelines, automated deployments, and integrated AI/ML workflows
 - **Vantage Point Global**: GCP Cloud Engineer (2021–2023)
   - Designed scalable, secure GCP environments for big data and fraud detection
-- **Custom Solutions**: Built RAG pipelines, automation bots, and custom APIs for various clients
+  - Supported clients including Zurich Investment Group
+- **Custom Solutions**:
+  - **Lead Developer & Architect, Social Media Marketing Automation SaaS**: Designed and launched a white-label Engagement Marketing Hub for agencies, enabling real-time monitoring and AI-powered engagement across Twitter, Reddit, Threads, TikTok, and LinkedIn. Led a team to deliver:
+    - Multi-tenant, modular adapters for rapid onboarding of new clients/channels
+    - Hybrid polling/webhook engine for reliable, real-time feed monitoring
+    - AI-generated, on-brand replies using OpenAI, with a central prompt manager for brand voice
+    - Universal authentication, advanced rate-limiting, and secure credential storage (Redis)
+    - Enterprise-grade observability: structured logging (Winston), Prometheus, Grafana, and automated retries
+    - Plugin-style architecture for easy extensibility and robust media handling
+  - Built RAG pipelines, automation bots, and custom APIs for various clients
 
 <!-- CERTIFICATIONS -->
 <a name="certifications"></a>
